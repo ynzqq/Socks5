@@ -68,4 +68,4 @@ CentOS-6.4-86<br>
 centos-6.9-x86_64<br>
 
 ## 写在最后 ##
-如果发现版本bug，请及时发E-mail：yanningzhi@gmail.com，本人会尽快修复!<br>
+如果发现版本bug，请及时发E-mail：yanningzhi@gmail.com，会尽快修复!<br>
